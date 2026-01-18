@@ -1,4 +1,4 @@
----
+eu---
 manufacturer: 
     - motorola
 
@@ -83,3 +83,4 @@ This option does not seem to be found in the layout, but rather with the search 
   </figure>
 
 </div>
+<a href="https://dontkillmyapp.com/motorola"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/motorola3.svg"></a>
